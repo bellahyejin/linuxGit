@@ -6,6 +6,7 @@ void main(){
 	int a= 0, b=0;
 	int resul=0;
 
+	printf("Enter number : ");
 	scanf("%d", &value);
 	scanf("%d %d", &a, &b);
 	
